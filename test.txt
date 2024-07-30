@@ -1,5 +1,3 @@
 {
-  ["the table thing"] = {
-    "nurgament2"
-  }
+"hmmm"
 }
