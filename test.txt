@@ -1,6 +1,0 @@
-[
-  "hmmm": [
-    "something aaaa",
-    69.420
-  ]
-]
