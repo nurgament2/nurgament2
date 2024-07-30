@@ -1,5 +1,3 @@
 [
-  ["hmmm"] = [
-    ["nurgament2"]
-  ]
+  ["hmmm"] = []
 ]
