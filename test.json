@@ -1,8 +1,9 @@
 {
   "hmmm": [
     "something aaaa",
-    "ok": [
+    50,
+    "ok": {
       40
-    ]
+    }
   ]
 }
